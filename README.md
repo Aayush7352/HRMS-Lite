@@ -4,8 +4,8 @@ A lightweight, full-stack Human Resource Management System for managing employee
 
 ## 🚀 Live Demo
 
-- **Frontend URL**: [Add your deployed frontend URL here]
-- **Backend API**: [Add your deployed backend URL here]
+- **Frontend URL**: https://hrms-lite-nu.vercel.app/
+- **Backend API**:  https://hrms-lite-w4c2.onrender.com
 
 ## 📋 Features
 

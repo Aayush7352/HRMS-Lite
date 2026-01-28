@@ -370,12 +370,8 @@ This is an assignment project and is not open for contributions.
 MIT License - This project is created for educational and assignment purposes.
 
 ## 👨‍💻 Author
-[Your Name]
+Aayush Dixit.
 
-## 🙏 Acknowledgments
-- Assignment provided by [Company Name]
-- Built with care and attention to detail
-- Focused on clean code and user experience
 
 ---
 

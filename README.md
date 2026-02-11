@@ -73,7 +73,7 @@ npm install
 
 3. Create a `.env` file in the backend directory:
 ```env
-PORT=5000
+PORT=5500
 MONGODB_URI=your_mongodb_connection_string
 NODE_ENV=production
 ```
@@ -154,7 +154,7 @@ The frontend will run on `http://localhost:3000`
 
 ### Base URL
 ```
-http://localhost:5000/api
+http://localhost:5500/api
 ```
 
 ### Endpoints

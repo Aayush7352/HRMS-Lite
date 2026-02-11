@@ -103,7 +103,7 @@ npm install
 
 3. Create a `.env` file in the frontend directory:
 ```env
-REACT_APP_API_URL=http://localhost:5000/api
+REACT_APP_API_URL=http://localhost:5500/api
 ```
 
 For production, update this to your deployed backend URL.
